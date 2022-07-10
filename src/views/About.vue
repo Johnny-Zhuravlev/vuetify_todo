@@ -1,6 +1,6 @@
 <template>
   <div class="about pa-8">
-    <h1>About Vuetify Todo</h1>
+    <h1 class="mb-3">About Vuetify Todo</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure accusamus itaque labore nam quaerat consequuntur omnis iste aspernatur, neque esse error quod vero facilis veritatis tempora ullam ea suscipit necessitatibus adipisci natus, sequi optio! Nesciunt eius labore quia vel ducimus quibusdam hic error sit repellendus recusandae obcaecati commodi quae, ipsam placeat, vero laborum libero consectetur vitae perferendis nam, odit quod accusantium necessitatibus natus. Nam corporis consequuntur tenetur est excepturi neque dignissimos nemo quisquam fuga at, reiciendis corrupti accusamus magni nesciunt accusantium dicta nulla ea vero cum sit. Quo magnam nam qui recusandae inventore aliquid illo corporis, repudiandae explicabo assumenda voluptates.</p>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia ea, doloribus, ex assumenda molestias, aut magnam optio libero maiores ratione eius quisquam expedita. Illo suscipit officiis nihil temporibus placeat voluptates dolorem at in quibusdam molestiae voluptatem, commodi dolorum nemo rem consequatur voluptatibus qui eius sint totam molestias iure quo nostrum?</p>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi quia exercitationem quasi provident natus facilis minima iusto doloremque aut quibusdam.</p>

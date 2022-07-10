@@ -40,7 +40,7 @@
 
     <v-app-bar
       app
-      color="aquamarine"
+      color="primary"
       dark
       src="header_bg.webp"
     >
@@ -53,7 +53,7 @@
 
       <v-app-bar-nav-icon @click="drawer = !drawer"></v-app-bar-nav-icon>
 
-      <v-app-bar-title>Vuetify ToDo</v-app-bar-title>
+      <v-app-bar-title class="pl-2">Joe's Baiden Notes</v-app-bar-title>
 
       <v-spacer></v-spacer>
 
